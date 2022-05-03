@@ -1,0 +1,15 @@
+/Users/emil/RiderProjects/Philosophers/Philosophers/obj/Debug/net6.0/Philosophers.csproj.AssemblyReference.cache
+/Users/emil/RiderProjects/Philosophers/Philosophers/obj/Debug/net6.0/Philosophers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emil/RiderProjects/Philosophers/Philosophers/obj/Debug/net6.0/Philosophers.AssemblyInfoInputs.cache
+/Users/emil/RiderProjects/Philosophers/Philosophers/obj/Debug/net6.0/Philosophers.AssemblyInfo.cs
+/Users/emil/RiderProjects/Philosophers/Philosophers/obj/Debug/net6.0/Philosophers.csproj.CoreCompileInputs.cache
+/Users/emil/RiderProjects/Philosophers/Philosophers/bin/Debug/net6.0/Philosophers
+/Users/emil/RiderProjects/Philosophers/Philosophers/bin/Debug/net6.0/Philosophers.deps.json
+/Users/emil/RiderProjects/Philosophers/Philosophers/bin/Debug/net6.0/Philosophers.runtimeconfig.json
+/Users/emil/RiderProjects/Philosophers/Philosophers/bin/Debug/net6.0/Philosophers.dll
+/Users/emil/RiderProjects/Philosophers/Philosophers/bin/Debug/net6.0/Philosophers.pdb
+/Users/emil/RiderProjects/Philosophers/Philosophers/obj/Debug/net6.0/Philosophers.dll
+/Users/emil/RiderProjects/Philosophers/Philosophers/obj/Debug/net6.0/refint/Philosophers.dll
+/Users/emil/RiderProjects/Philosophers/Philosophers/obj/Debug/net6.0/Philosophers.pdb
+/Users/emil/RiderProjects/Philosophers/Philosophers/obj/Debug/net6.0/Philosophers.genruntimeconfig.cache
+/Users/emil/RiderProjects/Philosophers/Philosophers/obj/Debug/net6.0/ref/Philosophers.dll
